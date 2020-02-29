@@ -1,0 +1,57 @@
+header {
+  color: white;
+  background-color: slateblue;
+  padding-left: 10px;
+  margin-left: 0;
+  font-size: 24px;
+  font-weight: bold;
+}
+div {
+  width: 100%;
+  margin-top: 10px;
+}
+aside {
+  color: red;
+  float: left;
+  margin-right: 10px;
+}
+aside * {
+  color: red;
+}
+main {
+  display: inline-block;
+  width: 70%;
+  margin-left: 10px;
+}
+.main-image {
+  width: 600px;
+  height: 200px;
+}
+hr {
+  margin: 0 auto 0 auto;
+}
+h1 {
+  margin-bottom: 10px;
+}
+p {
+  margin-top: 0;
+}
+.logo {
+  color: white;
+  text-decoration: none;
+}
+a {
+}
+ul {
+  list-style: none;
+}
+footer span {
+  float: right;
+  font-size: small;
+}
+.float-right {
+  float: right;
+}
+table {
+  border: 1px solid black;
+}
